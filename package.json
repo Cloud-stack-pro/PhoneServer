@@ -1,0 +1,22 @@
+{
+  "name": "phoneserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Cloud-stack-pro/PhoneServer.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "cloud code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cloud-stack-pro/PhoneServer/issues"
+  },
+  "homepage": "https://github.com/Cloud-stack-pro/PhoneServer#readme"
+}
